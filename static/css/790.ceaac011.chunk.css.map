@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/790.ceaac011.chunk.css","mappings":"AAAA,KACE,eAAgB,CAChB,iBAAkB","sources":["pages/Intertext/mobile/Intertext.scss"],"sourcesContent":["body {\n  overflow: hidden;\n  touch-action: none;\n}\n"],"names":[],"sourceRoot":""}
